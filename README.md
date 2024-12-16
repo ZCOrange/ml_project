@@ -20,6 +20,7 @@ This is intended to be the basic framework that can be used in all machine learn
 - notebooks
   - exploration.ipynb
   - check_data.ipynb
+- requirements.txt
 - README.md
 - LICENSE
 
@@ -46,5 +47,6 @@ This is intended to be the basic framework that can be used in all machine learn
 - notebooks
   - exploration.ipynb
   - check_data.ipynb
+- requirements.txt
 - README.md
 - LICENSE
