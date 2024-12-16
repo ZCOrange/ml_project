@@ -21,6 +21,7 @@ This is intended to be the basic framework that can be used in all machine learn
   - exploration.ipynb
   - check_data.ipynb
 - requirements.txt
+- Dockerfile
 - README.md
 - LICENSE
 
@@ -48,5 +49,6 @@ This is intended to be the basic framework that can be used in all machine learn
   - exploration.ipynb
   - check_data.ipynb
 - requirements.txt
+- Dockerfile
 - README.md
 - LICENSE
